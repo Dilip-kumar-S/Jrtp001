@@ -6,6 +6,13 @@ import java.util.Base64.Encoder;
 
 public class PasswordService 
 {
+	
+	
+	
+	
+	
+	
+   String name="Welcome";
 
 	/* Password Encoding */
 	public static String encode(String txt)
